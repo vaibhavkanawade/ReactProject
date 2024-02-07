@@ -17,7 +17,7 @@ It provides a minimalistic yet functional interface for users to view the time i
 ## Setup
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone  https://github.com/vaibhavkanawade/ReactProject.git`
 2. Navigate to the project directory: `cd indian-simple-clock`
 3. Install dependencies: `npm install`
 
